@@ -1,0 +1,80 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #6495ED;
+	font-family: 'Courier New', Monospace;
+}
+/** Header**/
+ .navbar {
+ 	border:7px solid #483D8B;
+ }
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+  border: 2px solid #fff !important;
+}
+
+.navbar-brand {
+	font-size: 30px;
+	font-weight: bold;
+
+}
+
+.menu{
+    width: 90%;
+    margin-right:auto;
+    margin-left:auto;
+    margin-bottom: 15px;
+
+}
+
+.menu-content {
+	background-color: #483D8B;
+	padding: 10px;
+	margin-top:30px;
+    margin-right:20px;
+    margin-left:auto;
+    margin-bottom: 20px;
+
+}
+
+.main-title {
+  font-weight: bold;
+  color: #2F4f4F;
+  margin-top: 20px;
+
+
+}
+
+.menu-title{
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+ p{
+    font-weight: 200;
+    font-size: 1em;
+    padding:5px 15px;
+  }
+
+
+  
+  
+  #navbar-toggle {
+   color: #2F4f4F;
+
+  }
+  #nav-list {
+  	font-size: 1.5em;
+  	text-align: middle;
+    padding : 5px;
+    text-align: center;
+  	  }
+
+   
+
+   
+
+
+
+
+
